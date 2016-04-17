@@ -1,4 +1,4 @@
-# Machine Learning Recipes
+# :space_invader: Machine Learning Recipes
 
 Code developed in video series "Machine Learning Recipes", eventually with some personal comments and annotations.
 
