@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ## History
 
-- [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3M://www.youtube.com/watch?v=cKxRvEZd3Mw)
+- [Hello World - Machine Learning Recipes #1](https://youtu.be/cKxRvEZd3Mw)
 - [Visualizing a Decision Tree - Machine Learning Recipes #2](https://www.youtube.com/watch?v=tNa99PG8hR8)
 
 ## Credits
