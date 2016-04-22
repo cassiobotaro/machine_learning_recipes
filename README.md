@@ -5,10 +5,15 @@ Code developed in video series "Machine Learning Recipes", eventually with some 
 ## Installation
 
 ```bash
+# Ubuntu < 16.04
 sudo apt-get install libatlas-dev libatlas3gf-base gfortran python-dev\
     libblas3 liblapack3 build-essential libatlas-base-dev graphviz\
     libgraphviz-dev pkg-config
 
+# Ubuntu 16.04+
+sudo apt-get install libblas3 libc6 liblapack3 gcc gfortran python-dev libgcc1 libgfortran3 libstdc++6 g++ graphviz
+
+# After:
 pip install -r requirements.txt
 ```
 ## Usage

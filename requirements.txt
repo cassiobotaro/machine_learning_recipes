@@ -1,5 +1,3 @@
-graphviz==0.4.10
-mergejs==1.0.0
 numpy==1.11.0
 pydot==1.0.2
 pyparsing==1.5.7
