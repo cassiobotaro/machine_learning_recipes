@@ -36,6 +36,7 @@ pip install -r requirements.txt
 - [Hello World - Machine Learning Recipes #1](https://youtu.be/cKxRvEZd3Mw)
 - [Visualizing a Decision Tree - Machine Learning Recipes #2](https://www.youtube.com/watch?v=tNa99PG8hR8)
 - [What Makes a Good Feature? - Machine Learning Recipes #3](https://youtu.be/N9fDIAflCMY)
+- [Let’s Write a Pipeline - Machine Learning Recipes #4](https://youtu.be/84gqSbLcBFE)
 
 ## Credits
 
