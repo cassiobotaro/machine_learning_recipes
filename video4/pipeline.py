@@ -1,8 +1,8 @@
 # import a dataset
 from sklearn import datasets  # , tree
-from sklearn.neighbors import KNeighborsClassifier
 from sklearn.cross_validation import train_test_split
 from sklearn.metrics import accuracy_score
+from sklearn.neighbors import KNeighborsClassifier
 
 iris = datasets.load_iris()
 
