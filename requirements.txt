@@ -2,3 +2,4 @@ numpy
 scipy
 scikit-learn
 git+https://github.com/cassiobotaro/pydot
+matplotlib
