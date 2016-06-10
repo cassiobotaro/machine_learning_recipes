@@ -14,7 +14,7 @@ def euc(a, b):
 class ScrappyKNN():
     '''My fist classifier.
 
-    Just reminder:
+    Just a reminder:
         X_train - training features
         y_train - training labels
         X_test -  test features
