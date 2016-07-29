@@ -8,13 +8,14 @@ Code developed in video series "Machine Learning Recipes", eventually with some 
 # Ubuntu < 16.04
 sudo apt-get install libatlas-dev libatlas3gf-base gfortran python-dev\
     libblas3 liblapack3 build-essential libatlas-base-dev graphviz\
-    libgraphviz-dev pkg-config build-essential python-tk tk-dev libpng12-dev
+    libgraphviz-dev pkg-config build-essential python-tk tk-dev\
+    libpng12-dev curl
 
 
 # Ubuntu 16.04+
 sudo apt install libblas3 libc6 liblapack3 gcc gfortran python-dev\
     libgcc1 libgfortran3 libstdc++6 g++ graphviz build-essential\
-    python-tk tk-dev libpng12-dev
+    python-tk tk-dev libpng12-dev curl
 
 # After:
 pip install -r requirements.txt
@@ -38,6 +39,7 @@ pip install -r requirements.txt
 - [What Makes a Good Feature? - Machine Learning Recipes #3](https://youtu.be/N9fDIAflCMY)
 - [Let’s Write a Pipeline - Machine Learning Recipes #4](https://youtu.be/84gqSbLcBFE)
 - [Writing Our First Classifier - Machine Learning Recipes #5](https://youtu.be/AoeEHqVSNOw)
+- [Train an Image Classifier with TensorFlow for Poets - Machine Learning Recipes #6](https://youtu.be/cSKfRcEDGUs)
 
 ## Credits
 
