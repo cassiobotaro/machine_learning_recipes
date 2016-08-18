@@ -6,7 +6,7 @@ Code developed in video series "Machine Learning Recipes", eventually with some 
 
 ```bash
 # Ubuntu < 16.04
-sudo apt-get install libatlas-dev libatlas3gf-base gfortran python-dev\
+sudo apt-get install libatlas-dev libatlas3-base gfortran python-dev\
     libblas3 liblapack3 build-essential libatlas-base-dev graphviz\
     libgraphviz-dev pkg-config build-essential python-tk tk-dev\
     libpng12-dev curl
