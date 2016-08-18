@@ -40,7 +40,6 @@ pip install -r requirements.txt
 - [Let’s Write a Pipeline - Machine Learning Recipes #4](https://youtu.be/84gqSbLcBFE)
 - [Writing Our First Classifier - Machine Learning Recipes #5](https://youtu.be/AoeEHqVSNOw)
 - [Train an Image Classifier with TensorFlow for Poets - Machine Learning Recipes #6](https://youtu.be/cSKfRcEDGUs)
-
 - [Classifying Handwritten Digits with TF.Learn - Machine Learning Recipes #7](https://youtu.be/Gj0iyo265bc)
 
 ## Credits
