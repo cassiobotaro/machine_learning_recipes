@@ -10,3 +10,13 @@ Codelab can be accessed [here](https://codelabs.developers.google.com/codelabs/t
 ## Give permissions to an user.
 
 `sudo usermod -aG docker <username>`
+
+# Description Links
+
+* TensorFlow for Poets Codelab: https://goo.gl/QTwZ3v
+
+* Google’s Udacity class on Deep Learning: https://goo.gl/iRqXsy
+
+* TensorFlow tutorial: https://goo.gl/0Oz7B5
+
+* Google Research blog on Inception: https://goo.gl/CSrfJ1
