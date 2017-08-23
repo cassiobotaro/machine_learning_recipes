@@ -19,10 +19,17 @@ sudo apt install libblas3 libc6 liblapack3 gcc gfortran python-dev\
 
 # After:
 pip install -r requirements.txt
+
+# Docker
+docker pull cassiobotaro/mlr
 ```
 ## Usage
 
 `python <example_code>.py`
+
+via docker
+
+`docker run --rm  -v $(pwd):/mlr  casiobotaro/mlr python3 mlr/video<number>/<example_code>.py `
 
 ## Contributing
 
