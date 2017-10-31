@@ -48,6 +48,7 @@ via docker
 - [Writing Our First Classifier - Machine Learning Recipes #5](https://youtu.be/AoeEHqVSNOw)
 - [Train an Image Classifier with TensorFlow for Poets - Machine Learning Recipes #6](https://youtu.be/cSKfRcEDGUs)
 - [Classifying Handwritten Digits with TF.Learn - Machine Learning Recipes #7](https://youtu.be/Gj0iyo265bc)
+- [Let’s Write a Decision Tree Classifier from Scratch - Machine Learning Recipes #8](https://youtu.be/LDRbO9a6XPU)
 
 ## Credits
 
